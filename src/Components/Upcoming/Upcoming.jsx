@@ -52,10 +52,10 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Hayotning sokin va huzurbaxsh onlarini OROM'da o'tkazing.
+                          Hayotning sokin va huzurbaxsh onlarini Oromʼda oʻtkazing.
                         </h3>
                         <p className="slidet_text2">
-                          OROM — TXT Group kompaniyasi tomonidan Jizzax shahrida qurilayotgan zamonaviy va qulay yashash sharoitlarini taqdim etuvchi komfort toifadagi turar-joy majmuasi.
+                          Orom — TXT Group kompaniyasi tomonidan Jizzax shahrida qurilayotgan zamonaviy va qulay yashash sharoitlarini taqdim etuvchi komfort toifadagi turar-joy majmuasi.
                         </p>
                       </div>
                       <div className="upcoming_icon2_card">

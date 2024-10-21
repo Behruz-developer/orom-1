@@ -38,7 +38,7 @@ const Location = () => {
             data-aos-offset="-200"
           >
             <p className="location_text2">
-            Majmua yaqinidagi istirohat bog‘i va yashil maydonlar sizning salomatligingiz va farovonligingizni ta'minlaydi, tinch va xotirjam muhitda dam olish imkonini beradi.
+              Majmua yaqinidagi istirohat bogʻi va yashil maydonlar sizning salomatligingiz va farovonligingizni taʼminlaydi, tinch va xotirjam muhitda dam olish imkonini beradi.
             </p>
           </div>
         </div>

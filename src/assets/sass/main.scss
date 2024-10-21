@@ -13,21 +13,24 @@
 '../../Components/Loading/Loading.scss';
 @import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap');
 
-:root{
-  --brwn1:#201637;
-  --brwn2:#384c2f;
-  --brwn3:#f6f6f4;
-  --brwn4:#003A09;
-  }
+:root {
+  --brwn1: #000;
+  --brwn2: #004F2E;
+  --brwn3: #f6f6f4;
+  --brwn4: #004F2E;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Golos Text', sans-serif;
 }
-a{
+
+a {
   text-decoration: none;
 }
+
 body {
   // background: #384D8B;
   background: white;
@@ -77,12 +80,15 @@ body {
   }
 
 }
+
 .about_title,
 .location_title,
 .blocks_location_title,
 .houses_title,
 .construction_title,
 .company_title,
-.company_card_bottom_numbers h3, .construction_text, .form_title {
+.company_card_bottom_numbers h3,
+.construction_text,
+.form_title {
   color: var(--brwn1);
 }
