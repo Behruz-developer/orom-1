@@ -52,7 +52,7 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Hayotning sokin va huzurbaxsh onlarini Oromʼda oʻtkazing.
+                          Hayotning sokin va huzurbaxsh <br /> onlarini Oromʼda oʻtkazing.
                         </h3>
                         <p className="slidet_text2">
                           Orom — TXT Group kompaniyasi tomonidan Jizzax shahrida qurilayotgan zamonaviy va qulay yashash sharoitlarini taqdim etuvchi komfort toifadagi turar-joy majmuasi.
